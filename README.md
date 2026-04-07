@@ -117,9 +117,13 @@ Classic arcade game built with strong OOP principles.
 ## 🛠 Tech Stack
 
 **Frontend:** React, JavaScript, Tailwind CSS
+
 **Backend:** Node.js, Express, FastAPI
+
 **Languages:** JavaScript, Python, Java
+
 **Databases:** MongoDB, MySQL
+
 **Tools:** Git, Jira, REST APIs
 
 ---
