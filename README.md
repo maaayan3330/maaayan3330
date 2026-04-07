@@ -22,7 +22,7 @@ A full-stack video platform inspired by YouTube.
 
 🔗 View code for web: [click here](https://github.com/maaayan3330/YouTube-web) 
 
-🔗 View code for androuid: [click here](https://github.com/maaayan3330/Project-YouTube-Android) 
+🔗 View code for android: [click here](https://github.com/maaayan3330/Project-YouTube-Android) 
 
 🔗 View code for server: [click here](https://github.com/maaayan3330/YouTube---server)
 
