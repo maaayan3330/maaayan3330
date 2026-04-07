@@ -1,4 +1,11 @@
-# Hi, I'm Maayan Ifergan
+# Hi, I'm Maayan Ifergan 
+---
+## 📫 Contact
+
+* 🌐 Portfolio: [click here](https://portfolio-maayan-ifergan.vercel.app)
+* 💼 LinkedIn: [click here](https://www.linkedin.com/in/maayan-ifergan-ma132002)
+
+---
 
 ## 🚀 Projects:
 
@@ -13,9 +20,13 @@ A full-stack video platform inspired by YouTube.
 * Developed an **Android app (Java)** connected to the same backend
 * Designed for scalability and smooth user experience
 
-🔗 View code for web: https://github.com/maaayan3330/YouTube-web
-🔗 View code for androuid: https://github.com/maaayan3330/Project-YouTube-Android
-🔗 View code for server: https://github.com/maaayan3330/YouTube---server
+🔗 View code for web: [click here](https://github.com/maaayan3330/YouTube-web) 
+
+🔗 View code for androuid: [click here](https://github.com/maaayan3330/Project-YouTube-Android) 
+
+🔗 View code for server: [click here](https://github.com/maaayan3330/YouTube---server)
+
+---
 
 ### 🤖 AI Pathfinding Agent – A* + MDP
 
@@ -26,7 +37,9 @@ An intelligent agent navigating a stochastic environment.
 * Built a hybrid policy for decision making under uncertainty
 * Designed for a "pressure plate" puzzle environment
 
-🔗 View code :https://github.com/maaayan3330/AI_exe1
+🔗 View code: [click here](https://github.com/maaayan3330/AI_exe1)
+
+---
 
 ## 📚 Self-Learning Projects:
 ### 🎮 Pizza Game – React Interactive Game
@@ -39,9 +52,10 @@ A fast-paced reaction game ("Grab the Pizza").
 * Responsive and colorful UI
 * Focus on **state management (useState, useEffect, useRef)**
 
-🔗 Live Demo: https://grab-the-pizza.vercel.app/
-🔗 view code: https://github.com/maaayan3330/Grab-the-pizza
+🔗 Live Demo: [click here](https://grab-the-pizza.vercel.app/)
+🔗 view code: [click here](https://github.com/maaayan3330/Grab-the-pizza)
 
+---
 
 ### 🧠 Word Scramble Game – React
 
@@ -53,9 +67,10 @@ A word puzzle game focused on user interaction and UX.
 * Hint system for better gameplay
 * Clean UI with Tailwind
 
-🔗 Live Demo: https://word-scramble-orcin-eight.vercel.app/
-🔗 view code: https://github.com/maaayan3330/Word-Scramble
+🔗 Live Demo: [click here](https://word-scramble-orcin-eight.vercel.app/)
+🔗 view code: [click here](https://github.com/maaayan3330/Word-Scramble)
 
+---
 
 ### 🧩 Memory Game – React
 
@@ -67,9 +82,10 @@ A flip-card memory game based on matching pairs.
 * State management for tracking selected cards
 * Interactive and engaging UI
 
-🔗 Live Demo: https://memory-game-two-rosy.vercel.app/
-🔗 view code: https://github.com/maaayan3330/MemoryGame
+🔗 Live Demo: [click here](https://memory-game-two-rosy.vercel.app/)
+🔗 view code: [click here](https://github.com/maaayan3330/MemoryGame)
 
+---
 
 ### ❌⭕ Tic-Tac-Toe 
 
@@ -80,9 +96,10 @@ Classic Tic-Tac-Toe game with dynamic game logic.
 * Game over screen with restart functionality
 * Clean UI and responsive design
 
-🔗 Live Demo: https://tic-tac-toe-eight-gamma-91.vercel.app/
-🔗 view code: https://github.com/maaayan3330/Tic-Tac-Toe
+🔗 Live Demo: [click here](https://tic-tac-toe-eight-gamma-91.vercel.app/)
+🔗 view code: [click here](https://github.com/maaayan3330/Tic-Tac-Toe)
 
+---
 
 ### 🧱 Arkanoid Game – Java
 
@@ -93,9 +110,9 @@ Classic arcade game built with strong OOP principles.
 * Collision detection and game mechanics
 * Modular and maintainable architecture
 
-🔗 View code: https://github.com/maaayan3330/Arkanoid-Project
+🔗 View code: [click here](https://github.com/maaayan3330/Arkanoid-Project)
 
-
+---
 
 ## 🛠 Tech Stack
 
@@ -104,13 +121,6 @@ Classic arcade game built with strong OOP principles.
 **Languages:** JavaScript, Python, Java
 **Databases:** MongoDB, MySQL
 **Tools:** Git, Jira, REST APIs
-
----
-
-## 📫 Contact
-
-* 🌐 Portfolio: https://portfolio-maayan-ifergan.vercel.app
-* 💼 LinkedIn: https://www.linkedin.com/in/maayan-ifergan-ma132002
 
 ---
 
